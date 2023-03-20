@@ -4,7 +4,7 @@ Web Development Intern at LetsGrowMore There are some essential points you have 
 
 Task submission guidelines-
 
-At least 3 tasks(Check PDF) must be completed to become eligible for the certification and 10 tasks to become eligible for LOR.
+At least 3 tasks(Check PDF) must be completed to become eligible for the certification and 4 tasks to become eligible for LOR.
 
 Update your LinkedIn Profile & Facebook Profile and share all the achievements that you got from us and tag Mr. Aman Kesarwani and LetsGrowMore.
 
