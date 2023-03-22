@@ -13,3 +13,5 @@ Task submission guidelines-
   4) Maintain a separate GitHub repository(name as LGMVIP-Web) for all the tasks and share the link of the GitHub repo in the task submission form(it will be given          later through email or discord).
 
   5) If your project or code is found copied, your internship will be terminated and you will be banned from further opportunities with LetsGrowMore.
+  
+Hosted Links of the Tasks:<br>
