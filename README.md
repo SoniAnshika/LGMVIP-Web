@@ -20,6 +20,6 @@ Links of the Hosted Websites of the Tasks:<br>
   
   2) Task 2-
   
-  3) Task 3-
+  3) Task 3- [Student Registration Form](https://sonianshika.github.io/Student-Registration-Form/)
   
   4) Task 4-
