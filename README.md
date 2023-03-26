@@ -18,7 +18,7 @@ Links of the Hosted Websites of the Tasks:<br>
   
   1) Task 1- [To Do List](https://sonianshika.github.io/To-Do-List-/)
   
-  2) Task 2-
+  2) Task 2- [MusHikA](https://sonianshika.github.io/Mushika/)
   
   3) Task 3- [Student Registration Form](https://sonianshika.github.io/Student-Registration-Form/)
   
