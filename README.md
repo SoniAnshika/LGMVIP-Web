@@ -2,7 +2,7 @@
 
 Web Development Intern at LetsGrowMore There are some essential points you have to remember during your internship tenure.
 
-Task submission guidelines-
+Task submission guidelines:
 
   1) At least 2-3 tasks(Check PDF) must be completed to become eligible for the certification and 4 tasks to become eligible for LOR.
 
